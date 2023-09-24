@@ -1,3 +1,5 @@
 .idea/**
 token.txt
 key.json
+.terraform/
+.terraform.lock.hcl
